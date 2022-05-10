@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhikul0108
-- 👀 I’m interested in Andriod App Development
+- 👀 I’m interested in Andriod App Development and UI development
 - 🌱 I’m currently persuing my B.tech
 - 📫 How to reach me kulshreshtha.abhijeet@gmail.com
 
